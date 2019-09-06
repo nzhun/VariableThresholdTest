@@ -1,5 +1,8 @@
 # VariableThresholdTest
 
+This script required the following package:
+Math::GSL::CDF
+Math::GSL::Randist
 usage:
 perl VT_binomial.pl $pwd/test/test.vcf.gz $pwd/test/test.ped $pwd/test/test.transcript.txt  test.OUT
 
