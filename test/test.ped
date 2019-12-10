@@ -1,372 +1,372 @@
-#ID	Gender	Affected
-control0	2	1
-control1	1	1
-control2	1	1
-control3	2	1
-control4	2	1
-control5	2	1
-control6	1	1
-control7	1	1
-control8	1	1
-control9	2	1
-control10	1	1
-control11	1	1
-control12	2	1
-control13	1	1
-control14	1	1
-control15	1	1
-control16	1	1
-control17	2	1
-control18	1	1
-control19	2	1
-control20	1	1
-control21	1	1
-control22	2	1
-control23	2	1
-control24	1	1
-control25	1	1
-control26	1	1
-control27	2	1
-control28	2	1
-control29	1	1
-control30	1	1
-control31	2	1
-control32	1	1
-control33	2	1
-control34	1	1
-control35	2	1
-control36	1	1
-control37	2	1
-control38	1	1
-control39	2	1
-control40	1	1
-control41	1	1
-control42	2	1
-control43	1	1
-control44	1	1
-control45	1	1
-control46	2	1
-control47	1	1
-control48	1	1
-control49	1	1
-control50	2	1
-control51	1	1
-control52	1	1
-control53	2	1
-control54	2	1
-control55	1	1
-control56	1	1
-control57	2	1
-control58	2	1
-control59	1	1
-control60	1	1
-control61	2	1
-control62	2	1
-control63	1	1
-control64	1	1
-control65	2	1
-control66	1	1
-control67	2	1
-control68	1	1
-control69	2	1
-control70	1	1
-control71	2	1
-control72	1	1
-control73	1	1
-control74	1	1
-control75	1	1
-control76	2	1
-control77	1	1
-control78	1	1
-control79	2	1
-control80	2	1
-control81	1	1
-control82	2	1
-control83	2	1
-control84	1	1
-control85	2	1
-control86	2	1
-control87	1	1
-control88	2	1
-control89	2	1
-control90	2	1
-control91	1	1
-control92	1	1
-control93	1	1
-control94	1	1
-control95	1	1
-control96	2	1
-control97	1	1
-control98	1	1
-control99	2	1
-control100	1	1
-control101	1	1
-control102	1	1
-control103	1	1
-control104	2	1
-control105	1	1
-control106	1	1
-control107	2	1
-control108	1	1
-control109	1	1
-control110	1	1
-control111	2	1
-control112	2	1
-control113	2	1
-control114	1	1
-control115	1	1
-control116	1	1
-control117	1	1
-control118	1	1
-control119	2	1
-control120	2	1
-control121	2	1
-control122	2	1
-control123	1	1
-control124	2	1
-control125	2	1
-control126	2	1
-control127	2	1
-control128	1	1
-control129	2	1
-control130	1	1
-control131	1	1
-control132	2	1
-control133	1	1
-control134	1	1
-control135	1	1
-control136	1	1
-control137	2	1
-control138	1	1
-control139	1	1
-control140	1	1
-control141	1	1
-control142	1	1
-control143	1	1
-control144	2	1
-control145	1	1
-control146	2	1
-control147	1	1
-control148	2	1
-control149	1	1
-control150	2	1
-control151	2	1
-control152	2	1
-control153	1	1
-control154	2	1
-control155	2	1
-control156	1	1
-control157	1	1
-control158	2	1
-control159	1	1
-control160	2	1
-control161	1	1
-control162	2	1
-control163	2	1
-control164	1	1
-control165	2	1
-control166	2	1
-control167	1	1
-control168	2	1
-control169	2	1
-control170	2	1
-control171	1	1
-control172	1	1
-control173	1	1
-control174	2	1
-control175	1	1
-control176	1	1
-control177	2	1
-control178	2	1
-control179	1	1
-control180	2	1
-control181	1	1
-control182	1	1
-control183	1	1
-control184	1	1
-control185	1	1
-control186	2	1
-control187	1	1
-control188	2	1
-control189	2	1
-control190	1	1
-control191	1	1
-control192	1	1
-control193	2	1
-control194	1	1
-control195	1	1
-control196	1	1
-control197	1	1
-control198	2	1
-control199	2	1
-control200	1	1
-control201	1	1
-control202	1	1
-control203	1	1
-control204	1	1
-control205	2	1
-control206	1	1
-control207	1	1
-control208	1	1
-control209	2	1
-control210	1	1
-control211	1	1
-control212	2	1
-control213	2	1
-control214	2	1
-control215	1	1
-control216	1	1
-control217	1	1
-control218	1	1
-control219	2	1
-control220	2	1
-control221	1	1
-control222	2	1
-control223	1	1
-control224	2	1
-control225	1	1
-control226	2	1
-control227	1	1
-control228	1	1
-control229	1	1
-control230	1	1
-control231	2	1
-control232	1	1
-control233	2	1
-control234	1	1
-control235	1	1
-control236	1	1
-control237	1	1
-control238	1	1
-control239	2	1
-control240	2	1
-control241	1	1
-control242	1	1
-control243	1	1
-control244	2	1
-control245	2	1
-control246	1	1
-control247	2	1
-control248	2	1
-control249	1	1
-control250	2	1
-control251	2	1
-control252	1	1
-control253	2	1
-control254	1	1
-control255	2	1
-control256	2	1
-control257	1	1
-control258	1	1
-control259	2	1
-control260	1	1
-control261	1	1
-control262	2	1
-control263	2	1
-control264	2	1
-control265	1	1
-control266	1	1
-control267	1	1
-control268	1	1
-control269	2	1
-control270	2	1
-control271	1	1
-control272	2	1
-control273	1	1
-control274	1	1
-control275	2	1
-control276	1	1
-control277	1	1
-control278	2	1
-control279	1	1
-control280	2	1
-control281	1	1
-control282	2	1
-control283	2	1
-control284	1	1
-control285	2	1
-control286	1	1
-control287	2	1
-control288	2	1
-control289	2	1
-control290	1	1
-control291	2	1
-control292	1	1
-control293	1	1
-control294	2	1
-control295	2	1
-control296	2	1
-control297	2	1
-control298	2	1
-control299	2	1
-control300	1	1
-control301	2	1
-control302	1	1
-control303	2	1
-control304	2	1
-control305	2	1
-control306	1	1
-control307	2	1
-control308	1	1
-control309	2	1
-control310	1	1
-control311	1	1
-control312	2	1
-control313	2	1
-control314	2	1
-control315	1	1
-control316	2	1
-control317	2	1
-control318	1	1
-control319	1	1
-control320	1	1
-control321	2	1
-control322	1	1
-control323	1	1
-control324	2	1
-control325	2	1
-control326	1	1
-control327	2	1
-control328	2	1
-control329	1	1
-control330	2	1
-control331	1	1
-control332	1	1
-control333	2	1
-control334	1	1
-control335	1	1
-control336	1	1
-control337	2	1
-control338	2	1
-control339	2	1
-control340	1	1
-control341	2	1
-control342	2	1
-control343	1	1
-control344	1	1
-control345	2	1
-control346	2	1
-control347	2	1
-control348	1	1
-control349	1	1
-control350	2	1
-control351	2	1
-control352	1	1
-control353	2	1
-control354	1	1
-control355	2	1
-control356	1	1
-case357	2	2
-case358	2	2
-case359	2	2
-case360	2	2
-case361	2	2
-case362	2	2
-case363	1	2
-case364	2	2
-case365	2	2
-case366	2	2
-case367	2	2
-case368	2	2
-case369	1	2
-case370	1	2
+#FAm	ID	Father	Mother	Sex	Affected
+control0	control0	X	X	2	1
+control1	control1	X	X	1	1
+control2	control2	X	X	1	1
+control3	control3	X	X	2	1
+control4	control4	X	X	2	1
+control5	control5	X	X	2	1
+control6	control6	X	X	1	1
+control7	control7	X	X	1	1
+control8	control8	X	X	1	1
+control9	control9	X	X	2	1
+control10	control10	X	X	1	1
+control11	control11	X	X	1	1
+control12	control12	X	X	2	1
+control13	control13	X	X	1	1
+control14	control14	X	X	1	1
+control15	control15	X	X	1	1
+control16	control16	X	X	1	1
+control17	control17	X	X	2	1
+control18	control18	X	X	1	1
+control19	control19	X	X	2	1
+control20	control20	X	X	1	1
+control21	control21	X	X	1	1
+control22	control22	X	X	2	1
+control23	control23	X	X	2	1
+control24	control24	X	X	1	1
+control25	control25	X	X	1	1
+control26	control26	X	X	1	1
+control27	control27	X	X	2	1
+control28	control28	X	X	2	1
+control29	control29	X	X	1	1
+control30	control30	X	X	1	1
+control31	control31	X	X	2	1
+control32	control32	X	X	1	1
+control33	control33	X	X	2	1
+control34	control34	X	X	1	1
+control35	control35	X	X	2	1
+control36	control36	X	X	1	1
+control37	control37	X	X	2	1
+control38	control38	X	X	1	1
+control39	control39	X	X	2	1
+control40	control40	X	X	1	1
+control41	control41	X	X	1	1
+control42	control42	X	X	2	1
+control43	control43	X	X	1	1
+control44	control44	X	X	1	1
+control45	control45	X	X	1	1
+control46	control46	X	X	2	1
+control47	control47	X	X	1	1
+control48	control48	X	X	1	1
+control49	control49	X	X	1	1
+control50	control50	X	X	2	1
+control51	control51	X	X	1	1
+control52	control52	X	X	1	1
+control53	control53	X	X	2	1
+control54	control54	X	X	2	1
+control55	control55	X	X	1	1
+control56	control56	X	X	1	1
+control57	control57	X	X	2	1
+control58	control58	X	X	2	1
+control59	control59	X	X	1	1
+control60	control60	X	X	1	1
+control61	control61	X	X	2	1
+control62	control62	X	X	2	1
+control63	control63	X	X	1	1
+control64	control64	X	X	1	1
+control65	control65	X	X	2	1
+control66	control66	X	X	1	1
+control67	control67	X	X	2	1
+control68	control68	X	X	1	1
+control69	control69	X	X	2	1
+control70	control70	X	X	1	1
+control71	control71	X	X	2	1
+control72	control72	X	X	1	1
+control73	control73	X	X	1	1
+control74	control74	X	X	1	1
+control75	control75	X	X	1	1
+control76	control76	X	X	2	1
+control77	control77	X	X	1	1
+control78	control78	X	X	1	1
+control79	control79	X	X	2	1
+control80	control80	X	X	2	1
+control81	control81	X	X	1	1
+control82	control82	X	X	2	1
+control83	control83	X	X	2	1
+control84	control84	X	X	1	1
+control85	control85	X	X	2	1
+control86	control86	X	X	2	1
+control87	control87	X	X	1	1
+control88	control88	X	X	2	1
+control89	control89	X	X	2	1
+control90	control90	X	X	2	1
+control91	control91	X	X	1	1
+control92	control92	X	X	1	1
+control93	control93	X	X	1	1
+control94	control94	X	X	1	1
+control95	control95	X	X	1	1
+control96	control96	X	X	2	1
+control97	control97	X	X	1	1
+control98	control98	X	X	1	1
+control99	control99	X	X	2	1
+control100	control100	X	X	1	1
+control101	control101	X	X	1	1
+control102	control102	X	X	1	1
+control103	control103	X	X	1	1
+control104	control104	X	X	2	1
+control105	control105	X	X	1	1
+control106	control106	X	X	1	1
+control107	control107	X	X	2	1
+control108	control108	X	X	1	1
+control109	control109	X	X	1	1
+control110	control110	X	X	1	1
+control111	control111	X	X	2	1
+control112	control112	X	X	2	1
+control113	control113	X	X	2	1
+control114	control114	X	X	1	1
+control115	control115	X	X	1	1
+control116	control116	X	X	1	1
+control117	control117	X	X	1	1
+control118	control118	X	X	1	1
+control119	control119	X	X	2	1
+control120	control120	X	X	2	1
+control121	control121	X	X	2	1
+control122	control122	X	X	2	1
+control123	control123	X	X	1	1
+control124	control124	X	X	2	1
+control125	control125	X	X	2	1
+control126	control126	X	X	2	1
+control127	control127	X	X	2	1
+control128	control128	X	X	1	1
+control129	control129	X	X	2	1
+control130	control130	X	X	1	1
+control131	control131	X	X	1	1
+control132	control132	X	X	2	1
+control133	control133	X	X	1	1
+control134	control134	X	X	1	1
+control135	control135	X	X	1	1
+control136	control136	X	X	1	1
+control137	control137	X	X	2	1
+control138	control138	X	X	1	1
+control139	control139	X	X	1	1
+control140	control140	X	X	1	1
+control141	control141	X	X	1	1
+control142	control142	X	X	1	1
+control143	control143	X	X	1	1
+control144	control144	X	X	2	1
+control145	control145	X	X	1	1
+control146	control146	X	X	2	1
+control147	control147	X	X	1	1
+control148	control148	X	X	2	1
+control149	control149	X	X	1	1
+control150	control150	X	X	2	1
+control151	control151	X	X	2	1
+control152	control152	X	X	2	1
+control153	control153	X	X	1	1
+control154	control154	X	X	2	1
+control155	control155	X	X	2	1
+control156	control156	X	X	1	1
+control157	control157	X	X	1	1
+control158	control158	X	X	2	1
+control159	control159	X	X	1	1
+control160	control160	X	X	2	1
+control161	control161	X	X	1	1
+control162	control162	X	X	2	1
+control163	control163	X	X	2	1
+control164	control164	X	X	1	1
+control165	control165	X	X	2	1
+control166	control166	X	X	2	1
+control167	control167	X	X	1	1
+control168	control168	X	X	2	1
+control169	control169	X	X	2	1
+control170	control170	X	X	2	1
+control171	control171	X	X	1	1
+control172	control172	X	X	1	1
+control173	control173	X	X	1	1
+control174	control174	X	X	2	1
+control175	control175	X	X	1	1
+control176	control176	X	X	1	1
+control177	control177	X	X	2	1
+control178	control178	X	X	2	1
+control179	control179	X	X	1	1
+control180	control180	X	X	2	1
+control181	control181	X	X	1	1
+control182	control182	X	X	1	1
+control183	control183	X	X	1	1
+control184	control184	X	X	1	1
+control185	control185	X	X	1	1
+control186	control186	X	X	2	1
+control187	control187	X	X	1	1
+control188	control188	X	X	2	1
+control189	control189	X	X	2	1
+control190	control190	X	X	1	1
+control191	control191	X	X	1	1
+control192	control192	X	X	1	1
+control193	control193	X	X	2	1
+control194	control194	X	X	1	1
+control195	control195	X	X	1	1
+control196	control196	X	X	1	1
+control197	control197	X	X	1	1
+control198	control198	X	X	2	1
+control199	control199	X	X	2	1
+control200	control200	X	X	1	1
+control201	control201	X	X	1	1
+control202	control202	X	X	1	1
+control203	control203	X	X	1	1
+control204	control204	X	X	1	1
+control205	control205	X	X	2	1
+control206	control206	X	X	1	1
+control207	control207	X	X	1	1
+control208	control208	X	X	1	1
+control209	control209	X	X	2	1
+control210	control210	X	X	1	1
+control211	control211	X	X	1	1
+control212	control212	X	X	2	1
+control213	control213	X	X	2	1
+control214	control214	X	X	2	1
+control215	control215	X	X	1	1
+control216	control216	X	X	1	1
+control217	control217	X	X	1	1
+control218	control218	X	X	1	1
+control219	control219	X	X	2	1
+control220	control220	X	X	2	1
+control221	control221	X	X	1	1
+control222	control222	X	X	2	1
+control223	control223	X	X	1	1
+control224	control224	X	X	2	1
+control225	control225	X	X	1	1
+control226	control226	X	X	2	1
+control227	control227	X	X	1	1
+control228	control228	X	X	1	1
+control229	control229	X	X	1	1
+control230	control230	X	X	1	1
+control231	control231	X	X	2	1
+control232	control232	X	X	1	1
+control233	control233	X	X	2	1
+control234	control234	X	X	1	1
+control235	control235	X	X	1	1
+control236	control236	X	X	1	1
+control237	control237	X	X	1	1
+control238	control238	X	X	1	1
+control239	control239	X	X	2	1
+control240	control240	X	X	2	1
+control241	control241	X	X	1	1
+control242	control242	X	X	1	1
+control243	control243	X	X	1	1
+control244	control244	X	X	2	1
+control245	control245	X	X	2	1
+control246	control246	X	X	1	1
+control247	control247	X	X	2	1
+control248	control248	X	X	2	1
+control249	control249	X	X	1	1
+control250	control250	X	X	2	1
+control251	control251	X	X	2	1
+control252	control252	X	X	1	1
+control253	control253	X	X	2	1
+control254	control254	X	X	1	1
+control255	control255	X	X	2	1
+control256	control256	X	X	2	1
+control257	control257	X	X	1	1
+control258	control258	X	X	1	1
+control259	control259	X	X	2	1
+control260	control260	X	X	1	1
+control261	control261	X	X	1	1
+control262	control262	X	X	2	1
+control263	control263	X	X	2	1
+control264	control264	X	X	2	1
+control265	control265	X	X	1	1
+control266	control266	X	X	1	1
+control267	control267	X	X	1	1
+control268	control268	X	X	1	1
+control269	control269	X	X	2	1
+control270	control270	X	X	2	1
+control271	control271	X	X	1	1
+control272	control272	X	X	2	1
+control273	control273	X	X	1	1
+control274	control274	X	X	1	1
+control275	control275	X	X	2	1
+control276	control276	X	X	1	1
+control277	control277	X	X	1	1
+control278	control278	X	X	2	1
+control279	control279	X	X	1	1
+control280	control280	X	X	2	1
+control281	control281	X	X	1	1
+control282	control282	X	X	2	1
+control283	control283	X	X	2	1
+control284	control284	X	X	1	1
+control285	control285	X	X	2	1
+control286	control286	X	X	1	1
+control287	control287	X	X	2	1
+control288	control288	X	X	2	1
+control289	control289	X	X	2	1
+control290	control290	X	X	1	1
+control291	control291	X	X	2	1
+control292	control292	X	X	1	1
+control293	control293	X	X	1	1
+control294	control294	X	X	2	1
+control295	control295	X	X	2	1
+control296	control296	X	X	2	1
+control297	control297	X	X	2	1
+control298	control298	X	X	2	1
+control299	control299	X	X	2	1
+control300	control300	X	X	1	1
+control301	control301	X	X	2	1
+control302	control302	X	X	1	1
+control303	control303	X	X	2	1
+control304	control304	X	X	2	1
+control305	control305	X	X	2	1
+control306	control306	X	X	1	1
+control307	control307	X	X	2	1
+control308	control308	X	X	1	1
+control309	control309	X	X	2	1
+control310	control310	X	X	1	1
+control311	control311	X	X	1	1
+control312	control312	X	X	2	1
+control313	control313	X	X	2	1
+control314	control314	X	X	2	1
+control315	control315	X	X	1	1
+control316	control316	X	X	2	1
+control317	control317	X	X	2	1
+control318	control318	X	X	1	1
+control319	control319	X	X	1	1
+control320	control320	X	X	1	1
+control321	control321	X	X	2	1
+control322	control322	X	X	1	1
+control323	control323	X	X	1	1
+control324	control324	X	X	2	1
+control325	control325	X	X	2	1
+control326	control326	X	X	1	1
+control327	control327	X	X	2	1
+control328	control328	X	X	2	1
+control329	control329	X	X	1	1
+control330	control330	X	X	2	1
+control331	control331	X	X	1	1
+control332	control332	X	X	1	1
+control333	control333	X	X	2	1
+control334	control334	X	X	1	1
+control335	control335	X	X	1	1
+control336	control336	X	X	1	1
+control337	control337	X	X	2	1
+control338	control338	X	X	2	1
+control339	control339	X	X	2	1
+control340	control340	X	X	1	1
+control341	control341	X	X	2	1
+control342	control342	X	X	2	1
+control343	control343	X	X	1	1
+control344	control344	X	X	1	1
+control345	control345	X	X	2	1
+control346	control346	X	X	2	1
+control347	control347	X	X	2	1
+control348	control348	X	X	1	1
+control349	control349	X	X	1	1
+control350	control350	X	X	2	1
+control351	control351	X	X	2	1
+control352	control352	X	X	1	1
+control353	control353	X	X	2	1
+control354	control354	X	X	1	1
+control355	control355	X	X	2	1
+control356	control356	X	X	1	1
+case357	case357	X	X	2	2
+case358	case358	X	X	2	2
+case359	case359	X	X	2	2
+case360	case360	X	X	2	2
+case361	case361	X	X	2	2
+case362	case362	X	X	2	2
+case363	case363	X	X	1	2
+case364	case364	X	X	2	2
+case365	case365	X	X	2	2
+case366	case366	X	X	2	2
+case367	case367	X	X	2	2
+case368	case368	X	X	2	2
+case369	case369	X	X	1	2
+case370	case370	X	X	1	2
